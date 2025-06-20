@@ -1,6 +1,6 @@
 # Hi there, I'm Beata! 👋
 
-I'm a passionate Data Analyst with experience in transforming raw data into actionable insights. Welcome to my GitHub profile!
+I'm a passionate about Data with experience in transforming raw data into actionable insights. Welcome to my GitHub profile!
 
 ## About Me
 
