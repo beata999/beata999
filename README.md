@@ -14,7 +14,7 @@ I'm a passionate about Data with experience in transforming raw data into action
   Data analytics, dashboard design, and the best practices for managing and analyzing large datasets.
 
 - 📫 **How to reach me:**  
-  Check out my professional journey on (https://www.linkedin.com/in/beata-%C5%A1altyt%C4%97-989875127) or email me at beatasaltyte@gmail.com.
+  Check out my professional journey on (www.linkedin.com/in/beata-šaltytė) or email me at beatasaltyte@gmail.com.
 
 - 😄 **Pronouns:**  
   She/her
